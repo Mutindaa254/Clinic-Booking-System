@@ -49,7 +49,7 @@ The project directory contains:
 
 - `clinic_booking_system.sql` - SQL script containing the database schema, relationships, and sample data.
 - `README.md` - Project description and setup instructions.
-- `images/` -  Folder for storing project-related images such as screenshots or the ERD.
+- `clinic Booking ERD.jpg` -  Folder for storing project-related images such as screenshots or the ERD.
 
 ---
 
